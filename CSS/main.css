@@ -1,0 +1,94 @@
+body{
+  background-color: #e9f4e3;
+}
+
+.jumbotron{
+  background-image: url("../Images/mountains.jpg");
+  background-repeat: no-repeat;
+  background-color: #e9f4e3;
+  background-size: cover;
+  width: 100%;
+  top-margin: -40px;
+  padding: 20%;
+  background-attachment: fixed;
+  background-position: center -238px;
+}
+
+.jumbotron h1{
+  position: relative;
+  left: 0;
+  vertical-align: middle;
+  top-margin: -80px;
+  padding-left: 300px;
+  color: #F7FAFE;
+}
+.jumbotron h3{
+  position: relative;
+  left: 0;
+  top-margin: -10px;
+  padding-left: 0px;
+  color: #F7FAFE;
+}
+
+/*.mission{
+  background-color: #e9f4e3;
+  margin-top: 30px;
+}
+
+.mission h3{
+  padding: 5% 10%;
+  text-align: center;
+  color: #000000;
+}*/
+
+.features{
+  padding: 2% 0;
+}
+
+.features p{
+  font-family: 'Muli' 'sans-serif';
+  text-align: center;
+  font-size: 1.2em;
+  padding-top: 10px;
+  color: #F7FAFE;
+}
+
+h3{
+  text-align: center;
+  color: #F7FAFE;
+}
+
+footer{
+  background-color: #3B393E;
+  position: absolute;
+  width: 100%;
+  height: auto;
+}
+
+footer p{
+  float: left;
+  padding: 2%;
+  color: #fff;
+  vertical-align: middle;
+}
+
+.btn{
+  background-color: #3b5135;
+  border: 1px solid #F7FAFE;
+}
+
+.thumbnail{
+  background-color: #5b6d54;
+  margin-top: -20px;
+}
+ nav li{
+  display: inline-block;
+  text-decoration: none;
+  padding: 1%;
+  float: right;
+ }
+
+ nav a{
+   color: #fff;
+   vertical-align: middle;
+ }
